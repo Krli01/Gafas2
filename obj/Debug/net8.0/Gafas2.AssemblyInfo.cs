@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gafas2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+779687d2cb9574f5b1b5cb103cf367eb8b954562")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gafas2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gafas2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
